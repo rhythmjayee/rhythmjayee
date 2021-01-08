@@ -5,23 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhythmjayee" alt="rhythmjayee" /></a> </p>
 
-- 🔭 I’m currently working on **nothing...lol**
-
-- 🌱 I’m currently learning **anything**
-
-- 👯 I’m looking to collaborate on **projects.....of course**
-
-- 🤝 I’m looking for help with **DSA**
-
-- 👨‍💻 All of my projects are available at [https://rhythmjayee.github.io](https://rhythmjayee.github.io)
-
-- 💬 Ask me about **mern stack**
 
 - 📫 How to reach me **jayeerythm8@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhythmjayee&show_icons=true&locale=en&layout=compact" alt="rhythmjayee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhythmjayee&show_icons=true&locale=en" alt="rhythmjayee" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rhythmjayee&show_icons=true&locale=en" alt="rhythmjayee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmjayee&" alt="rhythmjayee" /></p>
