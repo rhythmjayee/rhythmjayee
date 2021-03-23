@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rhythmhayee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rhythmhayee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/rhythm-jayee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/mwlite/in/rhythm-jayee-45aa48174" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rhythm-jayee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/mwlite/in/rhythm-jayee-45aa48174" height="30" width="40" /></a>
 <a href="https://medium.com/@rhythmjayee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rhythmjayee" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/rhythmjayee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rhythmjayee" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rhythmjayee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rhythmjayee" height="30" width="40" /></a>
