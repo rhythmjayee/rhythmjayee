@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rhythm jayee</h1>
-<h3 align="center">competitive programmer || Mern stack developer</h3>
+<h3 align="center">competitive programmer || Ful stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythmjayee&label=Profile%20views&color=0e75b6&style=flat" alt="rhythmjayee" /> </p>
 <p align="center"> <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="rhythmjayee" width="200px" height="200px" /> </p>
