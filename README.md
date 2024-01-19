@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rhythm jayee</h1>
+<h1 align="center">Hi 👋, I'm Rhythm Jayee</h1>
 <h3 align="center">❤ Problem Solving || 🚀Full stack developer</h3>
 
 <!--![VisitorCount](https://profile-counter.glitch.me/{rhythmjayee}/count.svg) -->
